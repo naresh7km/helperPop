@@ -4,6 +4,9 @@ const path = require("path");
 const app = express();
 const PORT = 3000 || process.env.PORT;
 
+const firstList = ["greenshousejapanesefoodtruck", "sakurasuhiandramenbar", "hisashieats"];
+const secondList = ["massagesayami", "shibuyahotel", "yuuyuuyoga"];
+
 // List of allowed frontend origins for CORS
 const allowedOrigins = [
   "https://www.greenshousejapanesefoodtruck.com",
