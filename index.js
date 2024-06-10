@@ -19,6 +19,8 @@ const allowedOrigins = [
   "http://massagesayami.com",
   "https://shibuyahotel.life",
   "http://shibuyahotel.life",
+  "https://yuuyuuyoga.fit",
+  "http://yuuyuuyoga.fit",
 ];
 
 // Normalize referer function to handle trailing slashes
