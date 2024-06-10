@@ -6,6 +6,7 @@ const PORT = 3000 || process.env.PORT;
 
 const firstList = ["greenshousejapanesefoodtruck", "sakurasuhiandramenbar", "hisashieats"];
 const secondList = ["massagesayami", "shibuyahotel", "yuuyuuyoga"];
+const thirdList = [];
 
 // List of allowed frontend origins for CORS
 const allowedOrigins = [
