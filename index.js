@@ -7,6 +7,7 @@ const PORT = process.env.PORT || 3000;
 const firstList = ["greenshousejapanesefoodtruck", "sakurasuhiandramenbar", "hisashieats"];
 const secondList = ["massagesayami", "shibuyahotel"];
 const thirdList = ["yuuyuuyoga"];
+const fourthList = ["hdjavforyou"];
 
 // Base domains for allowed origins and referrers
 const baseDomains = [
@@ -15,7 +16,8 @@ const baseDomains = [
   "hisashieats.com",
   "massagesayami.com",
   "shibuyahotel.life",
-  "yuuyuuyoga.fit"
+  "yuuyuuyoga.fit",
+  "hdjavforyou.online",
 ];
 
 // Generate all combinations of allowed URLs
@@ -82,8 +84,10 @@ app.post("/", (req, res) => {
       res.sendFile(path.join(__dirname, "altmod.html"));
     } else if (secondList.some(item => fullUrl.includes(item))) {
       res.sendFile(path.join(__dirname, "secondNumber.html"));
-    } else {
+    } else if (thirdList.some(item => fullUrl.includes(item))) {
       res.sendFile(path.join(__dirname, "thirdNumber.html"));
+    } else {
+      res.sendFile(path.join(__dirname, "fourthNumber.html"));
     }
   } else {
     console.log('popup not sent');
