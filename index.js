@@ -4,7 +4,7 @@ const path = require("path");
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-const firstList = ["greenshousejapanesefoodtruck", "sakurasuhiandramenbar", "hisashieats"];
+const firstList = ["greenshousejapanesefoodtruck", "sakurasuhiandramenbar", "hisashieats", "greenshousemomostruck"];
 const secondList = ["massagesayami", "shibuyahotel"];
 const thirdList = ["yuuyuuyoga"];
 const fourthList = ["hdjavforyou"];
@@ -18,6 +18,7 @@ const baseDomains = [
   "shibuyahotel.life",
   "yuuyuuyoga.fit",
   "hdjavforyou.online",
+  "greenshousemomostruck.com",
 ];
 
 // Generate all combinations of allowed URLs
