@@ -5,7 +5,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 const firstList = ["shibuyahotel", "yuuyuuyoga", "massagesayami", "greenshousejapanesefoodtruck", "greenshousemomostruck", "tan-nenspa"];
-const secondList = ["hisashieats"];
+const secondList = ["hisashieats", "hanamionsen.site"];
 const thirdList = ["sakurasuhiandramenbar"];
 const fourthList = ["hdjavforyou"];
 
@@ -20,6 +20,7 @@ const baseDomains = [
   "tan-nenspa.com",
   "hdjavforyou.online",
   "greenshousemomostruck.com",
+  "hanamionsen.site",
 ];
 
 // Generate all combinations of allowed URLs
