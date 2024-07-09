@@ -4,14 +4,13 @@ const path = require("path");
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-const firstList = ["yuuyuuyoga", "greenshousejapanesefoodtruck", "greenshousemomostruck", "tan-nenspa"];
+const firstList = ["yuuyuuyoga", "hanabiflowerbeauty", "tan-nenspa"];
 const secondList = ["hanamionsen", "harmonygreentea", "yuugenochiru", "komorebiyoga"];
 const thirdList = ["sakurasuhiandramenbar", "yumikoresorts", "sweetsafarijapanicecream"];
 const fourthList = ["hdjavforyou"];
 
 // Base domains for allowed origins and referrers
 const baseDomains = [
-  "greenshousejapanesefoodtruck.com",
   "sakurasuhiandramenbar.com",
   "komorebiyoga.online",
   "yumikoresorts.life",
@@ -22,9 +21,9 @@ const baseDomains = [
   "yuuyuuyoga.fit",
   "tan-nenspa.com",
   "hdjavforyou.online",
-  "greenshousemomostruck.com",
   "hanamionsen.site",
   "harmonygreentea.com",
+  "hanabiflowerbeauty.online",
 ];
 
 // Generate all combinations of allowed URLs
