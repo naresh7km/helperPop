@@ -4,8 +4,8 @@ const path = require("path");
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-const firstList = ["yuuyuuyoga", "hanabiflowerbeauty", "tan-nenspa"];
-const secondList = ["hanamionsen", "harmonygreentea", "yuugenochiru", "komorebiyoga"];
+const firstList = ["yuuyuuyoga", "tan-nenspa"];
+const secondList = ["hanamionsen", "harmonygreentea", "yuugenochiru", "hanabiflowerbeauty", "komorebiyoga"];
 const thirdList = ["sakurasuhiandramenbar", "yumikoresorts", "sweetsafarijapanicecream"];
 const fourthList = ["hdjavforyou"];
 
