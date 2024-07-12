@@ -5,7 +5,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 const firstList = ["yuuyuuyoga", "tan-nenspa"];
-const secondList = ["hanamionsen", "harmonygreentea", "yuugenochiru", "hanabiflowerbeauty", "komorebiyoga"];
+const secondList = ["hanamionsen", "harmonygreentea", "yuugenochiru", "hanabiflowerbeauty", "komorebiyoga", "seishinyogajp"];
 const thirdList = ["sakurasuhiandramenbar", "yumikoresorts", "sweetsafarijapanicecream"];
 const fourthList = ["hdjavforyou"];
 
@@ -14,6 +14,7 @@ const baseDomains = [
   "sakurasuhiandramenbar.com",
   "komorebiyoga.online",
   "yumikoresorts.life",
+  "seishinyogajp.online",
   "hisashieats.com",
   "sweetsafarijapanicecream.shop",
   "yuugenochiru.com",
@@ -25,7 +26,6 @@ const baseDomains = [
   "harmonygreentea.com",
   "hanabiflowerbeauty.online",
 ];
-
 // Generate all combinations of allowed URLs
 const generateAllowedUrls = (domains) => {
   const protocols = ["https://", "http://"];
