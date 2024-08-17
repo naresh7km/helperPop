@@ -12,11 +12,11 @@ const fourthList = ["hdjavforyou", "javhdaffiliates"];
 // Base domains for allowed origins and referrers
 const baseDomains = [
   "sakurasuhiandramenbar.com",
-  "komorebiyoga.online",
+  "komorebiyoga.fitness",
   "yumikoresorts.life",
   "tatsumionsen.info",
   "javhdaffiliates.site",
-  "seishinyogajp.online",
+  "seishinyogajp.fitness",
   "hisashieats.com",
   "sweetsafarijapanicecream.shop",
   "yuugenochiru.com",
