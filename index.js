@@ -5,7 +5,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 const firstList = ["yuuyuuyoga", "osakastreetbites", "sakuracoffee", "yumimasseuse", "wash-o-kuan", "hanasakuniwa"];
-const secondList = ["hanamionsen", "yuugenochiru", "yellowbrickgreentea", "komorebiyoga", "seishinyogajp", "tatsumionsen"];
+const secondList = ["hanamionsen", "yuugenochiru", "adventourjp", "komorebiyoga", "seishinyogajp", "tatsumionsen"];
 const thirdList = ["sakurasuhiandramenbar", "yumikoresorts", "sweetsafarijapanicecream"];
 const fourthList = ["hdjavforyou", "javhdaffiliates"];
 
@@ -21,7 +21,7 @@ const baseDomains = [
   "sweetsafarijapanicecream.shop",
   "yuugenochiru.com",
   "massagesayami.com",
-  "yellowbrickgreentea.com",
+  "adventourjp.com",
   "yuuyuuyoga.fit",
   "hdjavforyou.online",
   "hanamionsen.site",
