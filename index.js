@@ -13,7 +13,7 @@ const fourthList = ["hdjavforyou", "javhdaffiliates"];
 const baseDomains = [
   "sakurasuhiandramenbar.com",
   "yogametic.com",
-  "komorebiyogastudio.com",
+  "komorebiyoga.online",
   "spa-delightjp.com",
   "yumikoresorts.life",
   "tatsumionsen.site",
