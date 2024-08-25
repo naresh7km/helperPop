@@ -4,8 +4,8 @@ const path = require("path");
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-const firstList = ["yuuyuuyoga", "yumikoresorts", "sweetsafarijapanicecream", "sakurasuhiandramenbar", "osakastreetbites", "sakuracoffee", "yumimasseuse", "wash-o-kuan", "hanasakuniwa"];
-const secondList = ["hanamionsen", "yuugenochiru",  "komorebiyoga", "seishinyogajp", "shoppiejapanclothes"];
+const firstList = ["yuuyuuyoga", "yumikoresorts", "yogalex", "sakurasuhiandramenbar", "osakastreetbites", "sakuracoffee", "yumimasseuse", "wash-o-kuan", "hanasakuniwa"];
+const secondList = ["hanamionsen",  "komorebiyoga", "seishinyogajp", "shoppiejapanclothes"];
 const thirdList = ["adventourjp", "spa-delightjp", "tatsumionsen", "yogametic"];
 const fourthList = ["hdjavforyou", "javhdaffiliates"];
 
@@ -20,8 +20,7 @@ const baseDomains = [
   "javhdaffiliates.site",
   "seishinyogajp.fitness",
   "hisashieats.com",
-  "sweetsafarijapanicecream.shop",
-  "yuugenochiru.com",
+  "yogalex.site",
   "massagesayami.com",
   "adventourjp.com",
   "yuuyuuyoga.fit",
