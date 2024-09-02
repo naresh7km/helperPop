@@ -8,9 +8,7 @@ const firstList = ["yuuyuuyoga", "yumikoresorts", "sakurasuhiandramenbar", "yumi
 const secondList = ["sakuracoffee", "spa-delightjp"];
 const thirdList = ["seishinyogajp", "komorebiyoga", "tatsumionsen", "yogametic"];
 const fourthList = ["hdjavforyou", "javhdaffiliates"];
-const fifthList = ["hanamionsen", "shoppiejapanclothes", "wash-o-kuan", "hoshianimeinfo", "yogalex", "fitzonefitness", "osakastreetbites"];
-
-
+const fifthList = ["hanamionsen", "shoppiejapanclothes", "wash-o-kuan", "hoshianimeinfo", "yogalex", "fitzonefitness", "osakastreetbites", "shinkansen"];
 
 // Base domains for allowed origins and referrers
 const baseDomains = [
@@ -37,8 +35,8 @@ const baseDomains = [
   "shoppiejapanclothes.store",
   "hoshianimeinfo.online",
   "fitzonefitness.shop",
+  "shinkansen.info",
 ];
-
 
 // Generate all combinations of allowed URLs
 const generateAllowedUrls = (domains) => {
