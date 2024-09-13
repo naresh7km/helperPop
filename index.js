@@ -5,10 +5,10 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 const firstList = ["yuuyuuyoga", "yumikoresorts", "sakurasuhiandramenbar", "hanasakuniwa"];
-const secondList = ["spa-delightjp", "komorebiyoga", "hikokimagic", "shoppiejapanclothes"];
+const secondList = ["spa-delightjp", "komorebiyoga"];
 const thirdList = ["seishinyogajp", "tatsumionsen", "yogametic"];
-const fourthList = ["hdjavforyou", "javhdaffiliates"];
-const fifthList = ["shinkansen", "sakuracoffee", "yumimasseuse", "osakastreetbites", "fitzonefitness"];
+const fourthList = ["hdjavforyou", "javhdaffiliates", "shoppiejapanclothes", "fitzonefitness", "osakastreetbites", "hikokimagic"];
+const fifthList = ["shinkansen", "sakuracoffee", "yumimasseuse"];
 
 // Base domains for allowed origins and referrers
 const baseDomains = [
