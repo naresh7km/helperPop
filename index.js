@@ -27,7 +27,7 @@ const baseDomains = [
   "adventourjp.com",
   "yuuyuuyoga.fit",
   "hdjavforyou.online",
-  "osakastreetbites.life",
+  "osakastreetbites.services",
   "sakuracoffee.shop",
   "yumimasseuse.shop",
   "hanasakuniwa.shop",
