@@ -5,7 +5,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 const firstList = ["yuuyuuyoga", "yumikoresorts", "sakurasuhiandramenbar", "hanasakuniwa"];
-const secondList = ["komorebiyoga", "hikokimagic", "shinkansen"];
+const secondList = ["hikokimagic", "shinkansen"];
 const thirdList = ["spa-delightjp", "seishinyogajp", "tatsumionsen", "yogametic", "foodhutjapan", "hotelroyaltonjp"];
 const fourthList = ["hdjavforyou", "javhdaffiliates"];
 const fifthList = ["sakuracoffee", "yumimasseuse", "fitzonefitness", "shoppiejapanclothes", "osakastreetbites"];
@@ -16,7 +16,6 @@ const baseDomains = [
   "foodhutjapan.com",
   "yogametic.fit",
   "hotelroyaltonjp.com",
-  "komorebiyoga.online",
   "spa-delightjp.com",
   "yumikoresorts.life",
   "tatsumionsen.site",
@@ -33,8 +32,8 @@ const baseDomains = [
   "hanasakuniwa.shop",
   "shoppiejapanclothes.online",
   "fitzonefitness.live",
-  "shinkansen.info",
-  "hikokimagic.shop",
+  "shinkanseninfo.online",
+  "hikokimagic.store",
 ];
 
 // Generate all combinations of allowed URLs
