@@ -31,7 +31,7 @@ const baseDomains = [
   "sakuracoffee.shop",
   "yumimasseuse.shop",
   "hanasakuniwa.shop",
-  "shoppiejapanclothes.store",
+  "shoppiejapanclothes.online",
   "fitzonefitness.live",
   "shinkansen.info",
   "hikokimagic.shop",
