@@ -7,8 +7,8 @@ const PORT = process.env.PORT || 3000;
 const firstList = ["yuuyuuyoga", "yumikoresorts", "sakurasuhiandramenbar", "hanasakuniwa"];
 const secondList = ["shinkansenfacts"];
 const thirdList = ["spa-delightjp", "seishinyogajp", "tatsumionsen", "yogametic", "foodhutjapan", "hotelroyaltonjp"];
-const fourthList = ["hdjavforyou", "javhdaffiliates", "fitzonefitness"];
-const fifthList = ["sakuracoffee", "yumimasseuse", "osakastreetbites", "mahbubanioldage", "shoppiejapaneseclothes", "hikokifacts"];
+const fourthList = ["hdjavforyou", "javhdaffiliates", "fitzonefitness", "osakastreetbites", "mahbubanioldage", "shoppiejapaneseclothes", "hikokifacts"];
+const fifthList = ["sakuracoffee", "yumimasseuse"];
 // Base domains for allowed origins and referrers
 const baseDomains = [
   "sakurasuhiandramenbar.com",
