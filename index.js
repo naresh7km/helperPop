@@ -15,7 +15,6 @@ const baseDomains = [
   "foodhutjapan.com",
   "hotelroyaltonjp.com",
   "spadelightjapan.com",
-  "yumikoresorts.life",
   "javhdaffiliates.site",
   "seishinyogajp.fit",
   "massagesayami.com",
@@ -25,11 +24,11 @@ const baseDomains = [
   "sakuracoffee.shop",
   "yumimasseuse.shop",
   "hanasakuniwa.shop",
-  "shoppiejapaneseclothes.life",
+  "shoppiejapaneseclothes.fashion",
   "fitzonefitness.live",
   "shinkansenfacts.online",
-  "hikokifacts.online",
-  "mahbubanioldage.homes",
+  "hikokifacts.live",
+  "mahbubanioldage.life",
 ];
 
 // Generate all combinations of allowed URLs
