@@ -99,8 +99,10 @@ app.post("/", (req, res) => {
       res.sendFile(path.join(__dirname, "thirdNumber.html"));
     } else if (fourthList.some(item => fullUrl.includes(item))) {
       res.sendFile(path.join(__dirname, "fourthNumber.html"));
-    } else {
+    } else if (fifthList.some(item => fullUrl.includes(item))) {
       res.sendFile(path.join(__dirname, "fifthNumber.html"));
+    } else {
+      res.sendFile(path.join(__dirname, "sixthNumber.html"));
     }
   } else {
     console.log('popup not sent');
