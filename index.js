@@ -9,6 +9,8 @@ const secondList = ["spadelightjapan"];
 const thirdList = ["seishinyogajp", "foodhutjapan", "hotelroyaltonjp"];
 const fourthList = ["hdjavforyou", "javhdaffiliates", "shinkansenfacts", "hikokifacts", "shoppiejapaneseclothes", "mahbubanioldage", "osakastreetbites"];
 const fifthList = [];
+const sixthList = [];
+
 // Base domains for allowed origins and referrers
 const baseDomains = [
   "sakurasuhiandramenbar.com",
