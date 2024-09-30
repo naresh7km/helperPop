@@ -4,11 +4,12 @@ const path = require("path");
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-const firstList = ["yuuyuuyoga", "sakurasuhiandramenbar","fitzonefitness"];
-const secondList = ["spadelightjapan", "shinkansenfacts","hikokifacts",];
+const firstList = ["yuuyuuyoga", "sakurasuhiandramenbar", "fitzonefitness"];
+const secondList = ["spadelightjapan"];
 const thirdList = ["seishinyogajp", "foodhutjapan", "hotelroyaltonjp"];
-const fourthList = ["hdjavforyou", "javhdaffiliates" "shoppiejapaneseclothes", "osakastreetbites", "mahbubanioldage"];
-const fifthList = [];
+const fourthList = ["hdjavforyou", "javhdaffiliates", "osakastreetbites"];
+const fifthList = ["shinkansenfacts", "hikokifacts", "shoppiejapaneseclothes", "mahbubanioldage"];
+
 // Base domains for allowed origins and referrers
 const baseDomains = [
   "sakurasuhiandramenbar.com",
