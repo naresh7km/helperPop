@@ -9,9 +9,7 @@ const secondList = ["shinkansenfacts"];
 const thirdList = ["spadelightjapan", "seishinyogajp", "foodhutjapan", "hotelroyaltonjp"];
 const fourthList = ["hdjavforyou", "javhdaffiliates"];
 const fifthList = [];
-const sixthList = ["fitzonefitness"];
-
-
+const sixthList = ["fitzonefitness", "wanoiyashi", "fitclubgathering"];
 
 // Base domains for allowed origins and referrers
 const baseDomains = [
@@ -33,6 +31,8 @@ const baseDomains = [
   "shinkansenfacts.online",
   "hikokifacts.live",
   "mahbubanioldage.life",
+  "wanoiyashi.shop",
+  "fitclubgathering.shop",
 ];
 
 // Generate all combinations of allowed URLs
