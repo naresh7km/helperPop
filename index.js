@@ -4,10 +4,10 @@ const path = require("path");
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-const firstList = ["yuuyuuyoga", "sakurasuhiandramenbar", "hikokifacts", "shoppiejapaneseclothes", "mahbubanioldage", "osakastreetbites"];
+const firstList = ["yuuyuuyoga", "sakurasuhiandramenbar", "hikokifacts"];
 const secondList = ["spadelightjapan", "shinkansenfacts"];
 const thirdList = ["seishinyogajp", "foodhutjapan", "hotelroyaltonjp"];
-const fourthList = ["hdjavforyou", "javhdaffiliates", ];
+const fourthList = ["hdjavforyou", "javhdaffiliates", "shoppiejapaneseclothes", "mahbubanioldage", "osakastreetbites"];
 const fifthList = [];
 const sixthList = ["fitzonefitness"];
 
