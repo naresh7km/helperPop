@@ -15,7 +15,7 @@ const sixthList = ["fitzonefitness", "wanoiyashi", "fitclubgathering"];
 const baseDomains = [
   "sakurasuhiandramenbar.com",
   "foodhutjapan.com",
-  "hotelroyaltonjp.club",
+  "hotelroyaltonjp.com",
   "spadelightjapan.fit",
   "javhdaffiliates.site",
   "seishinyogajp.fit",
