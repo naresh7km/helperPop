@@ -7,9 +7,9 @@ const PORT = process.env.PORT || 3000;
 const firstList = ["yuuyuuyoga", "sakurasuhiandramenbar"];
 const secondList = ["spadelightjapan", "hdjavforyou", "javhdaffiliates"];
 const thirdList = ["seishinyogajp", "foodhutjapan", "hotelroyaltonjp"];
-const fourthList = ["shoppiejapanclothes", "shinkansenfacts", "osakastreetbites"];
+const fourthList = ["shoppiejapanclothes", "shinkansenfacts", "osakastreetbites", "hikokilove"];
 const fifthList = [];
-const sixthList = ["fitzonefitness", "wanoiyashi", "fitclubgathering", "nogamilearnings", "hikokilove"];
+const sixthList = ["fitzonefitness", "wanoiyashi", "fitclubgathering", "nogamilearnings", "fitclubcommunity"];
 
 // Base domains for allowed origins and referrers
 const baseDomains = [
@@ -33,6 +33,7 @@ const baseDomains = [
   "wanoiyashi.shop",
   "fitclubgathering.shop",
   "nogamilearnings.shop",
+  "fitclubcommunity.shop",
 ];
 
 // Generate all combinations of allowed URLs
