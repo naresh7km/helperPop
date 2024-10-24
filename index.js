@@ -8,7 +8,7 @@ const firstList = ["yuuyuuyoga", "sakurasuhiandramenbar"];
 const secondList = ["hdjavforyou", "hotelroyaltonjp", "javhdaffiliates"];
 const thirdList = ["seishinyogajp", "foodhutjapan", "yuyado-onsen"];
 const fourthList = ["spadelightjapan"];
-const fifthList = ["osakastreetbites", "shoppiejapanclothes"];
+const fifthList = [];
 const sixthList = ["fitzonefitness", "wanoiyashi", "nogamilearnings", "fitclubcommunity", "expressmealdelivery", "hanasakuniwa"];
 
 // Base domains for allowed origins and referrers
@@ -23,11 +23,9 @@ const baseDomains = [
   "massagesayami.com",
   "yuuyuuyoga.fit",
   "hdjavforyou.online",
-  "osakastreetbites.services",
   "sakuracoffee.shop",
   "yumimasseuse.shop",
   "hanasakuniwa.shop",
-  "shoppiejapanclothes.info",
   "fitzonefitness.live",
   "wanoiyashi.shop",
   "nogamilearnings.shop",
