@@ -5,8 +5,8 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 const firstList = ["yuuyuuyoga", "sakurasuhiandramenbar"];
-const secondList = ["hdjavforyou", "javhdaffiliates", "hotelroyaltonjp"];
-const thirdList = ["seishinyogajp", "foodhutjapan", "yuyado-onsen"];
+const secondList = ["hdjavforyou", "javhdaffiliates"];
+const thirdList = ["seishinyogajp", "foodhutjapan", "yuyado-onsen", "hotelroyaltonjp"];
 const fourthList = ["spadelightjapan"];
 const fifthList = [];
 const sixthList = ["fitzonefitness", "wanoiyashi", "nogamilearnings", "fitclubcommunity", "expressmealdelivery", "hanasakuniwa"];
