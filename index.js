@@ -9,7 +9,7 @@ const secondList = ["hdjavforyou", "javhdaffiliates", "hotelroyaltonjp"];
 const thirdList = ["seishinyogajp", "foodhutjapan", "yuyado-onsen"];
 const fourthList = ["spadelightjapan"];
 const fifthList = [];
-const sixthList = ["fitzonefitness", "wanoiyashi", "nogamilearnings", "fitclubcommunity", "expressmealdelivery", "hanasakuniwa"];
+const sixthList = ["fitzonefitness", "wanoiyashi", "nogamilearnings", "fitclubcommunity", "expressmealdelivery", "hanasakuniwa", "omnifoods"];
 
 // Base domains for allowed origins and referrers
 const baseDomains = [
@@ -32,6 +32,7 @@ const baseDomains = [
   "fitclubcommunity.shop",
   "expressmealdelivery.shop",
   "hanasakuniwa.shop",
+  "omnifoods.shop",
 ];
 
 // Generate all combinations of allowed URLs
