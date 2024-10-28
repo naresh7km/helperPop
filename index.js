@@ -6,8 +6,8 @@ const PORT = process.env.PORT || 3000;
 
 const firstList = ["yuuyuuyoga", "sakurasuhiandramenbar"];
 const secondList = ["hdjavforyou", "javhdaffiliates", "hotelroyaltonjp"];
-const thirdList = ["seishinyogajp", "foodhutjapan", "yuyado-onsen"];
-const fourthList = ["spadelightjapan"];
+const thirdList = ["seishinyogajp", "yuyado-onsen", "spadelightjapan"];
+const fourthList = [];
 const fifthList = [];
 const sixthList = ["fitzonefitness", "wanoiyashi", "nogamilearnings", "fitclubcommunity", "expressmealdelivery", "hanasakuniwa", "omnifoods"];
 
