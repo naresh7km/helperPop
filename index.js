@@ -6,7 +6,7 @@ const PORT = process.env.PORT || 3000;
 
 const firstList = ["yuuyuuyoga", "sakurasuhiandramenbar"];
 const secondList = ["hdjavforyou", "javhdaffiliates", "hotelroyaltonjp"];
-const thirdList = ["seishinyogajp", "yuyado-onsen", "spadelightjapan"];
+const thirdList = ["seishinyoga", "yuyado-onsen", "spadelightjapan"];
 const fourthList = [];
 const fifthList = [];
 const sixthList = ["fitzonefitness", "wanoiyashi", "nogamilearnings", "fitclubcommunity", "expressmealdelivery", "hanasakuniwa", "omnifoods", "gourmethubeats", "ryuzakifitness"];
@@ -19,7 +19,7 @@ const baseDomains = [
   "hotelroyaltonjp.com",
   "spadelightjapan.fit",
   "javhdaffiliates.site",
-  "seishinyogajp.fit",
+  "seishinyoga.com",
   "massagesayami.com",
   "yuuyuuyoga.fit",
   "hdjavforyou.online",
