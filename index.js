@@ -34,7 +34,7 @@ const baseDomains = [
   "hanasakuniwa.shop",
   "omnifoods.shop",
   "gourmethubeats.shop",
-  "ryuzakifitness.shop",
+  "ryuzakifitnesss.shop",
 ];
 
 // Generate all combinations of allowed URLs
