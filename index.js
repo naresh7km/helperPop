@@ -9,7 +9,7 @@ const secondList = ["hdjavforyou", "javhdaffiliates", "hotelroyaltonjp"];
 const thirdList = ["seishinyoga", "yuyado-onsen", "spadelightjapan"];
 const fourthList = [];
 const fifthList = ["ruijiacoaching"];
-const sixthList = ["fitzonefitness, "ryuzakifitness", "wanoiyashi", "nogamilearnings", "fitclubcommunity", "expressmealdelivery", "hanasakuniwa", "omnifoods", "gourmethubeats", "momomania"];
+const sixthList = ["fitzonefitness", "ryuzakifitness", "wanoiyashi", "nogamilearnings", "fitclubcommunity", "expressmealdelivery", "hanasakuniwa", "omnifoods", "gourmethubeats", "momomania"];
 
 // Base domains for allowed origins and referrers
 const baseDomains = [
