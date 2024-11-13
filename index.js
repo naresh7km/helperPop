@@ -8,7 +8,7 @@ const firstList = ["yuuyuuyoga", "sakurasuhiandramenbar"];
 const secondList = ["hdjavforyou", "javhdaffiliates", , "hotelroyaltonjp"];
 const thirdList = ["seishinyoga", "yuyado-onsen", "spadelightjapan"];
 const fourthList = ["wanoiyashi", "gourmethubeats"];
-const fifthList = ["ruijiacoaching"
+const fifthList = ["ruijiacoaching"];
 const sixthList = ["fitzonefitness", "ryuzakifitness", "hanasakuniwa", "nogamilearnings", "fitclubcommunity", "expressmealdelivery", "omnifoodss", "momomania"];
 
 // Base domains for allowed origins and referrers
