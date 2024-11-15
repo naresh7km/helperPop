@@ -21,13 +21,10 @@ const baseDomains = [
   "spadelightjapan.fit",
   "javhdaffiliates.site",
   "seishinyoga.com",
-  "massagesayami.com",
   "yuuyuuyoga.fit",
   "hdjavforyou.online",
-  "sakuracoffee.shop",
   "yumimasseuse.shop",
   "hanasakuniwa.shop",
-  "fitzonefitness.live",
   "nogamilearnings.shop",
   "fitclubcommunity.shop",
   "expressmealdelivery.shop",
@@ -36,10 +33,10 @@ const baseDomains = [
   "gourmethubeats.shop",
   "ryuzakifitnesss.shop",
   "momomania.shop",
+  "instanttnews.shop",
   "ruijiacoaching.us",
   "calmyogaandmeditation.online",
 ];
-
 // Generate all combinations of allowed URLs
 const generateAllowedUrls = (domains) => {
   const protocols = ["https://", "http://"];
