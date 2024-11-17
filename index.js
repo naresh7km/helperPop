@@ -9,7 +9,7 @@ const secondList = ["hdjavforyou", "javhdaffiliates"];
 const thirdList = ["seishinyoga", "yuyado-onsen", "spadelightjapan", "foodhutjapan", "hotelroyaltonjp"];
 const fourthList = [];
 const fifthList = ["ruijiacoaching", "calmyogaandmeditation"];
-const sixthList = ["fitzonefitness", "ryuzakifitness", "hanasakuniwa", "omnifoodss", "expressmealdelivery", "nogamilearnings", "fitclubcommunity", "momomania", "gourmethubeats", "instanttnews"];
+const sixthList = ["fitzonefitness", "yogalhealing", "hanasakuniwa", "omnifoodss", "expressmealdelivery", "nogamilearnings", "fitclubcommunity", "momomania", "gourmethubeats", "instanttnews"];
 
 // Base domains for allowed origins and referrers
 const baseDomains = [
@@ -29,12 +29,13 @@ const baseDomains = [
   "hanasakuniwa.shop",
   "omnifoodss.shop",
   "gourmethubeats.shop",
-  "ryuzakifitnesss.shop",
+  "yogahealing.netlify.app",
   "momomania.shop",
   "instanttnews.shop",
   "ruijiacoaching.us",
   "calmyogaandmeditation.online",
 ];
+
 // Generate all combinations of allowed URLs
 const generateAllowedUrls = (domains) => {
   const protocols = ["https://", "http://"];
