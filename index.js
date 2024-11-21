@@ -7,7 +7,7 @@ const PORT = process.env.PORT || 3000;
 const firstList = [];
 const secondList = ["hdjavforyou", "javhdaffiliates"];
 const thirdList = ["seishinyoga", "yuyado-onsen", "spadelightjapan", "foodhutjapan", "hotelroyaltonjp"];
-const fourthList = [];
+const fourthList = [tanenespa];
 const fifthList = ["ruijiacoaching", "calmyogaandmeditation"];
 const sixthList = ["fitzonefitness", "nursecares", "omnifoodss", "expressmealdelivery", "yogalhealing", "nogamilearnings", "fitclubcommunity", "momomania", "gourmethubeats", "instanttnews"];
 
@@ -15,6 +15,7 @@ const sixthList = ["fitzonefitness", "nursecares", "omnifoodss", "expressmealdel
 const baseDomains = [
   "foodhutjapan.netlify.app",
   "foodhutjapan.com",
+  "tanenespa.onrender.com",
   "yuyado-onsen.com",
   "hotelroyaltonjp.com",
   "spadelightjapan.fit",
