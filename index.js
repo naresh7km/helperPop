@@ -5,8 +5,8 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 const firstList = ["spadelightjapan"];
-const secondList = ["hdjavforyou", "javhdaffiliates", "spadelightjapan"];
-const thirdList = ["seishinyoga", "yuyado-onsen", "foodhutjapan", "hotelroyaltonjp"];
+const secondList = ["hdjavforyou", "javhdaffiliates"];
+const thirdList = ["seishinyoga", "yuyado-onsen", "foodhutjapan"];
 const fourthList = ["tanenespa"];
 const fifthList = ["ruijiacoaching", "calmyogaandmeditation"];
 const sixthList = ["nursecares", "omnifoodss", "expressmealdelivery", "yogalhealing", "gourmethubeats"];
@@ -14,10 +14,8 @@ const sixthList = ["nursecares", "omnifoodss", "expressmealdelivery", "yogalheal
 // Base domains for allowed origins and referrers
 const baseDomains = [
   "foodhutjapan.netlify.app",
-  "foodhutjapan.com",
   "tanenespa.onrender.com",
   "yuyado-onsen.com",
-  "hotelroyaltonjp.com",
   "spadelightjapan.fit",
   "javhdaffiliates.site",
   "seishinyoga.com",
