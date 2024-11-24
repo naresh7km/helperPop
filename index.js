@@ -28,7 +28,7 @@ const baseDomains = [
   "yogahealing.netlify.app",
   "nursecares.netlify.app",
   "ruijiacoaching.us",
-  "gourmethub.netlify.app"
+  "gourmethub.netlify.app",
   "calmyogaandmeditation.online",
 ];
 
