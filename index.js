@@ -4,7 +4,7 @@ const path = require("path");
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-const firstList = ["spadelightjapan"];
+const firstList = ["spadelightjapan", "komorebiyoga"];
 const secondList = ["hdjavforyou", "javhdaffiliates"];
 const thirdList = ["seishinyoga", "yuyado-onsen", "foodhutjapan"];
 const fourthList = ["tanenespa"];
@@ -16,6 +16,7 @@ const baseDomains = [
   "foodhutjapan.netlify.app",
   "tanenespa.onrender.com",
   "yuyado-onsen.com",
+  "komorebiyoga.onrender.com",
   "spadelightjapan.fit",
   "javhdaffiliates.site",
   "seishinyoga.com",
