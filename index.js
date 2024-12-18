@@ -8,7 +8,7 @@ const firstList = ["spadelightjapan", "tanenespa"];
 const secondList = ["hdjavforyou", "javhdaffiliates"];
 const thirdList = ["seishinyoga", "yuyado-onsen", "foodhutjapan", "komorebiyoga"];
 const fourthList = [];
-const fifthList = ["ruijiacoaching","oceanrestaurant", "kokoroyoga", "delightful-smakager-b5ed06.netlify.app"];
+const fifthList = ["oceanrestaurant", "kokoroyoga", "delightful-smakager-b5ed06.netlify.app", "ruijiacoaching.onrender.com"];
 const sixthList = ["nursecares", "expressmealdelivery", "yogalhealing", "gourmethub", "omnifoodss"];
 
 // Base domains for allowed origins and referrers
@@ -28,7 +28,7 @@ const baseDomains = [
   "gourmethubeats.shop",
   "yogahealing.netlify.app",
   "nursecares.netlify.app",
-  "ruijiacoaching.us",
+  "ruijiacoaching.onrender.com",
   "gourmethub.netlify.app",
   "oceanrestaurant.food",
   "kokoroyoga.club",
