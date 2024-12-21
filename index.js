@@ -22,9 +22,9 @@ const aomineList3 = [];
 const aomineList4 = [];
 const aomineList5 = [];
 
-const wayneList1 = ["ruijiacoaching.onrender.com"];
-const wayneList2 = ["delightful-smakager-b5ed06.netlify.app"];
-const wayneList3 = ["oceanrestaurant.onrender.com", "kokoroyoga.onrender.com", "goldenflowerhotel.onrender.com", "matsucafe.onrender.com", "summerlighthotel"];
+const wayneList1 = [];
+const wayneList2 = ["ruijiacoaching.onrender.com", "delightful-smakager-b5ed06.netlify.app", "oceanrestaurant.onrender.com", "kokoroyoga.onrender.com", "goldenflowerhotel.onrender.com", "matsucafe.onrender.com", "summerlighthotel"];
+const wayneList3 = [];
 const wayneList4 = [];
 const wayneList5 = [];
 
