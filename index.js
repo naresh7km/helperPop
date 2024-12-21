@@ -23,9 +23,9 @@ const aomineList4 = [];
 const aomineList5 = [];
 
 const wayneList1 = [];
-const wayneList2 = ["ruijiacoaching.onrender.com", "delightful-smakager-b5ed06.netlify.app", "oceanrestaurant.onrender.com", "kokoroyoga.onrender.com", "goldenflowerhotel.onrender.com", "matsucafe.onrender.com", "summerlighthotel"];
+const wayneList2 = [];
 const wayneList3 = [];
-const wayneList4 = [];
+const wayneList4 = ["ruijiacoaching.onrender.com", "delightful-smakager-b5ed06.netlify.app", "oceanrestaurant.onrender.com", "kokoroyoga.onrender.com", "goldenflowerhotel.onrender.com", "matsucafe.onrender.com", "summerlighthotel"];
 const wayneList5 = [];
 
 // Base domains for allowed origins and referrers
