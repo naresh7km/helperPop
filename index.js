@@ -16,9 +16,9 @@ const dmcList3 = [];
 const dmcList4 = [];
 const dmcList5 = [];
 
-const aomineList1 = ["nursecares", "expressmealdelivery", "yogalhealing", "gourmethub"];
+const aomineList1 = [];
 const aomineList2 = [];
-const aomineList3 = ["omnifoodss"];
+const aomineList3 = ["nursecares", "expressmealdelivery", "yogalhealing", "gourmethub", "omnifoodss"];
 const aomineList4 = [];
 const aomineList5 = [];
 
