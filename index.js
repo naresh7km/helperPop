@@ -4,13 +4,13 @@ const path = require("path");
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-const officeList1 = ["spadelightjapan", "tanenespa"];
+const officeList1 = ["tanenespa"];
 const officeList2 = ["hdjavforyou", "javhdaffiliates"];
 const officeList3 = [];
 const officeList4 = [];
 const officeList5 = [];
 
-const dmcList1 = ["seishinyoga", "yuyado-onsen", "foodhutjapan", "komorebiyoga"];;
+const dmcList1 = ["seishinyoga", "komorebiyoga"];
 const dmcList2 = [];
 const dmcList3 = [];
 const dmcList4 = [];
@@ -30,11 +30,8 @@ const wayneList5 = [];
 
 // Base domains for allowed origins and referrers
 const baseDomains = [
-  "foodhutjapan.netlify.app",
   "tanenespa.onrender.com",
-  "yuyado-onsen.com",
   "komorebiyoga.onrender.com",
-  "spadelightjapan.fit",
   "javhdaffiliates.site",
   "seishinyoga.com",
   "hdjavforyou.online",
