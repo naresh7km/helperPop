@@ -18,7 +18,7 @@ const dmcList5 = [];
 
 const aomineList1 = ["omnifoodss"];
 const aomineList2 = [];
-const aomineList3 = ["nursecares", "expressmealdelivery", "yogalhealing", "gourmethub"];
+const aomineList3 = ["nursecares", "expressmealdelivery", "yogalhealing", "gourmethub", "maindomainn.netlify.app"];
 const aomineList4 = [];
 const aomineList5 = [];
 
@@ -49,6 +49,7 @@ const baseDomains = [
   "delightful-smakager-b5ed06.netlify.app",
   "goldenflowerhotel.onrender.com",
   "matsucafe.onrender.com",
+  "maindomainn.netlify.app",
   "summerlighthotel.onrender.com",
 ];
 
