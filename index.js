@@ -4,8 +4,8 @@ const path = require("path");
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-const officeList1 = ["tanenespa"];
-const officeList2 = ["hdjavforyou", "javhdaffiliates"];
+const officeList1 = [];
+const officeList2 = ["hdjavforyou", "javhdaffiliates", "tanenespa"];
 const officeList3 = [];
 const officeList4 = [];
 const officeList5 = [];
