@@ -22,7 +22,7 @@ const aomineList3 = ["nursecares", "expressmealdelivery", "yogalhealing", "gourm
 const aomineList4 = [];
 const aomineList5 = [];
 
-const wayneList1 = ["ruijiacoaching.onrender.com", "delightful-smakager-b5ed06.netlify.app", "oceanrestaurant.netlify.app", "kokoroyogaonline.onrender.com", "goldenflowerhotel.netlify.app", "matsucafe.onrender.com", "summerlighthotel.onrender.com"];
+const wayneList1 = ["ruijiacoaching.netlify.app", "delightful-smakager-b5ed06.netlify.app", "oceanrestaurant.netlify.app", "kokoroyogaonline.onrender.com", "goldenflowerhotel.netlify.app", "matsucafe.onrender.com", "summerlighthotel.onrender.com"];
 const wayneList2 = [];
 const wayneList3 = [];
 const wayneList4 = [];
@@ -42,7 +42,7 @@ const baseDomains = [
   "gourmethubeats.shop",
   "yogahealing.netlify.app",
   "nursecares.netlify.app",
-  "ruijiacoaching.onrender.com",
+  "ruijiacoaching.netlify.app",
   "gourmethub.netlify.app",
   "oceanrestaurant.netlify.app",
   "kokoroyogaonline.onrender.com",
