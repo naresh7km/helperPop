@@ -10,8 +10,8 @@ const officeList3 = [];
 const officeList4 = [];
 const officeList5 = [];
 
-const dmcList1 = ["seishinyoga", "komorebiyoga"];
-const dmcList2 = [];
+const dmcList1 = ["seishinyoga"];
+const dmcList2 = ["komorebiyoga"];
 const dmcList3 = [];
 const dmcList4 = [];
 const dmcList5 = [];
