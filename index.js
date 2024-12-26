@@ -22,10 +22,10 @@ const aomineList3 = ["nursecares", "expressmealdelivery", "yogalhealing", "gourm
 const aomineList4 = [];
 const aomineList5 = [];
 
-const wayneList1 = ["ruijiacoaching.netlify.app"];
-const wayneList2 = ["delightful-smakager-b5ed06.netlify.app"];
-const wayneList3 = ["oceanrestaurant.netlify.app"];
-const wayneList4 = ["kokoroyogaonline.onrender.com", "goldenflowerhotel.netlify.app", "matsucafe.onrender.com", "summerlighthotel.onrender.com"];
+const wayneList1 = ["ruijiacoaching.netlify.app", "delightful-smakager-b5ed06.netlify.app", "oceanrestaurant.netlify.app", "kokoroyogaonline.onrender.com", "goldenflowerhotel.netlify.app", "matsucafe.onrender.com", "summerlighthotel.onrender.com"];
+const wayneList2 = [];
+const wayneList3 = [];
+const wayneList4 = [];
 const wayneList5 = [];
 
 // Base domains for allowed origins and referrers
