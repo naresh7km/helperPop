@@ -33,7 +33,7 @@ const baseDomains = [
   "tanenespa.onrender.com",
   "komorebiyoga.onrender.com",
   "javhdaffiliates.site",
-  "yoga-center.onrender.com",
+  "yoga-center.fit",
   "seishinyoga.com",
   "hdjavforyou.online",
   "yumimasseuse.shop",
