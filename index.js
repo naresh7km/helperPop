@@ -18,7 +18,7 @@ const dmcList5 = [];
 
 const aomineList1 = ["nursecares"];
 const aomineList2 = [];
-const aomineList3 = ["expressmealdelivery", "yogalhealing", "gourmethub", "maindomainn.netlify.app", "omnifoodss"];
+const aomineList3 = ["expressmealdelivery", "yogalhealing", "gourmethub", "maindomainn.netlify.app", "newomnifoods"];
 const aomineList4 = [];
 const aomineList5 = [];
 
@@ -39,7 +39,7 @@ const baseDomains = [
   "yumimasseuse.shop",
   "expressmealdelivery.shop",
   "hanasakuniwa.shop",
-  "omnifoodss.shop",
+  "newomnifoods.shop",
   "gourmethubeats.shop",
   "yogahealing.netlify.app",
   "nursecares.netlify.app",
