@@ -16,7 +16,7 @@ const dmcList3 = ["yoga-center"];
 const dmcList4 = [];
 const dmcList5 = [];
 
-const aomineList1 = [];
+const aomineList1 = ["expressmealdelivery", "yogalhealing", "gourmethub", "maindomainn.netlify.app", "newomnifoodss", "nursecares"];
 const aomineList2 = [];
 const aomineList3 = [];
 const aomineList4 = [];
