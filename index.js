@@ -10,9 +10,9 @@ const officeList3 = [];
 const officeList4 = [];
 const officeList5 = [];
 
-const dmcList1 = ["seishinyoga", "tanenespa"];
+const dmcList1 = ["seishinyoga"];
 const dmcList2 = ["komorebiyoga"];
-const dmcList3 = ["yoga-center"];
+const dmcList3 = ["tanenespa"];
 const dmcList4 = [];
 const dmcList5 = [];
 
@@ -33,7 +33,6 @@ const baseDomains = [
   "tanenespa.onrender.com",
   "komorebiyoga.onrender.com",
   "javhdaffiliates.site",
-  "yoga-center.fit",
   "seishinyoga.com",
   "hdjavforyou.online",
   "yumimasseuse.shop",
