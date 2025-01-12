@@ -22,7 +22,7 @@ const aomineList3 = [];
 const aomineList4 = [];
 const aomineList5 = [];
 
-const wayneList1 = ["oceanrestaurant.netlify.app", "delightful-smakager-b5ed06.netlify.app", "kokoroyogaonline.netlify.app", "resilient-belekoy-6ea47d.netlify.app", "matsucafe.onrender.com"];
+const wayneList1 = ["oceanrestaurant.netlify.app", "delightful-smakager-b5ed06.netlify.app", "imaginative-flan-4a888f.netlify.app", "incomparable-sable-0950e5.netlify.app", "matsucafe.onrender.com"];
 const wayneList2 = [];
 const wayneList3 = [];
 const wayneList4 = [];
@@ -44,11 +44,11 @@ const baseDomains = [
   "nursecares.netlify.app",
   "gourmethub.netlify.app",
   "oceanrestaurant.netlify.app",
-  "kokoroyogaonline.netlify.app",
+  "imaginative-flan-4a888f.netlify.app",
   "delightful-smakager-b5ed06.netlify.app",
-  "resilient-belekoy-6ea47d.netlify.app",
+  "incomparable-sable-0950e5.netlify.app",
   "matsucafe.onrender.com",
-  "nursefood.netlify.app"
+  "nursefood.netlify.app",
 ];
 
 // Generate all combinations of allowed URLs
