@@ -16,7 +16,7 @@ const dmcList3 = ["tanenespa"];
 const dmcList4 = [];
 const dmcList5 = [];
 
-const aomineList1 = ["expressmealdelivery", "yogalhealing", "gourmethub", "nursefood.netlify.app", "newomnifoodss", "nursecares"];
+const aomineList1 = ["expressmealdelivery", "yogalhealing", "gourmethub", "newomnifoodss", "nursefood"];
 const aomineList2 = [];
 const aomineList3 = [];
 const aomineList4 = [];
@@ -44,14 +44,13 @@ const baseDomains = [
   "newomnifoodss.shop",
   "gourmethubeats.shop",
   "yogahealing.netlify.app",
-  "nursecares.netlify.app",
   "gourmethub.netlify.app",
   "oceanrestaurant.netlify.app",
   "imaginative-flan-4a888f.netlify.app",
   "delightful-smakager-b5ed06.netlify.app",
   "incomparable-sable-0950e5.netlify.app",
   "matsucafe.onrender.com",
-  "nursefood.netlify.app",
+  "nursefood.shop",
 ];
 
 // Generate all combinations of allowed URLs
