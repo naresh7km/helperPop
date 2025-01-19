@@ -30,6 +30,7 @@ const wayneList5 = [];
 
 
 
+
 // Base domains for allowed origins and referrers
 const baseDomains = [
   "tanenespa.onrender.com",
