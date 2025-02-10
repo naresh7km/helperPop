@@ -23,9 +23,9 @@ const aomineList4 = [];
 const aomineList5 = [];
 
 // for mumbai - list 1
-const wayneList1 = [];
+const wayneList1 = ["oceanrestaurant.netlify.app", "delightful-smakager-b5ed06.netlify.app", "matsucafe.onrender.com"];
 // for office - list 2
-const wayneList2 = ["oceanrestaurant.netlify.app", "delightful-smakager-b5ed06.netlify.app", "matsucafe.onrender.com"];
+const wayneList2 = [];
 
 // redundant lists for now - DON'T USE !!!
 const wayneList3 = [];
