@@ -22,9 +22,9 @@ const aomineList3 = [];
 const aomineList4 = [];
 const aomineList5 = [];
 
-// for mumbai - list 1
+// for Turnig Off - list 1 (M)
 const wayneList1 = ["oceanrestaurant.netlify.app", "delightful-smakager-b5ed06.netlify.app", "matsucafe.onrender.com"];
-// for office - list 2
+// for Turning On  - list 2 (O)
 const wayneList2 = [];
 
 // redundant lists for now - DON'T USE !!!
