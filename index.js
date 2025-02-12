@@ -10,7 +10,7 @@ const officeList3 = [];
 const officeList4 = [];
 const officeList5 = [];
 
-const dmcList1 = ["seishinyoga"];
+const dmcList1 = [];
 const dmcList2 = ["komorebiyoga.onrender.com"];
 const dmcList3 = [];
 const dmcList4 = [];
@@ -25,7 +25,7 @@ const aomineList5 = [];
 // for Turnig Off - list 1 (M)
 const wayneList1 = ["oceanrestaurant.netlify.app", "delightful-smakager-b5ed06.netlify.app", "matsucafe.onrender.com"];
 // for Turning On  - list 2 (O)
-const wayneList2 = [];
+const wayneList2 = ["seishinyoga"];
 
 // redundant lists for now - DON'T USE !!!
 const wayneList3 = [];
