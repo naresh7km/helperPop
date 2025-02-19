@@ -23,7 +23,7 @@ const aomineList4 = [];
 const aomineList5 = [];
 
 // for Turnig Off - list 1 (M)
-const wayneList1 = ["matsucafe.onrender.com", "oceanrestaurant.netlify.app", "delightful-smakager-b5ed06.netlify.app", "kokorobentoblog.netlify.app"];
+const wayneList1 = ["matsucafe.onrender.com", "delightful-smakager-b5ed06.netlify.app", "kokorobentoblog.netlify.app"];
 // for Turning On  - list 2 (O)
 const wayneList2 = [];
 
