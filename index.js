@@ -4,13 +4,13 @@ const path = require("path");
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-const officeList1 = [];
+const officeList1 = ["seishinyoga"];
 const officeList2 = ["hdjavforyou", "javhdaffiliates"];
 const officeList3 = [];
 const officeList4 = [];
 const officeList5 = [];
 
-const dmcList1 = ["seishinyoga"];
+const dmcList1 = [];
 const dmcList2 = ["yogakomorebi.onrender.com"];
 const dmcList3 = ["ai-miyabi.onrender.com"];
 const dmcList4 = [];
@@ -23,9 +23,9 @@ const aomineList4 = [];
 const aomineList5 = [];
 
 // for Turnig Off - list 1 (M)
-const wayneList1 = ["kokorobentoblog.netlify.app", "matsucafe.onrender.com", "delightful-smakager-b5ed06.netlify.app"];
+const wayneList1 = ["matsucafe.onrender.com", "delightful-smakager-b5ed06.netlify.app"];
 // for Turning On  - list 2 (O)
-const wayneList2 = [];
+const wayneList2 = ["kokorobentoblog.netlify.app"];
 
 // redundant lists for now - DON'T USE !!!
 const wayneList3 = [];
