@@ -13,7 +13,7 @@ const officeList5 = [];
 const dmcList1 = ["seishinyoga"];
 const dmcList2 = ["yogakomorebi.onrender.com"];
 const dmcList3 = ["ai-miyabi.onrender.com"];
-const dmcList4 = [];
+const dmcList4 = ["tokyotastesjp.onrender.com"];
 const dmcList5 = [];
 
 const aomineList1 = ["expressmealdelivery", "newomnifoodss", "nursefood"];
