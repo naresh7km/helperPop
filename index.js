@@ -9,15 +9,14 @@ const officeList2 = ["hdjavforyou", "javhdaffiliates"];
 const officeList3 = [];
 const officeList4 = [];
 const officeList5 = [];
-
 const dmcList1 = ["seishinyoga", "tokyotastesjp.onrender.com"];
 
 
 
 
-// For tuning ON Put into dmclist2 
+// For tuning ON - dmclist2 
 const dmcList2 = [];
-// For tuning OFF Put into dmclist3
+// For tuning OFF - dmclist3
 const dmcList3 = ["ai-miyabi.onrender.com"];
 
 
@@ -26,7 +25,6 @@ const dmcList3 = ["ai-miyabi.onrender.com"];
 // redundant lists for now - DON'T USE !!!
 const dmcList4 = [];
 const dmcList5 = [];
-
 const aomineList1 = ["expressmealdelivery", "newomnifoodss", "nursefood"];
 const aomineList2 = [];
 const aomineList3 = [];
