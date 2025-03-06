@@ -9,7 +9,7 @@ const officeList2 = ["hdjavforyou", "javhdaffiliates"];
 const officeList3 = [];
 const officeList4 = [];
 const officeList5 = [];
-const dmcList1 = ["seishinyoga", "tokyotastesjp.onrender.com"];
+const dmcList1 = [];
 
 
 
@@ -17,7 +17,7 @@ const dmcList1 = ["seishinyoga", "tokyotastesjp.onrender.com"];
 // For tuning ON - dmclist2 
 const dmcList2 = [];
 // For tuning OFF - dmclist3
-const dmcList3 = ["ai-miyabi.onrender.com"];
+const dmcList3 = ["ai-miyabi.onrender.com", "seishinyoga", "tokyotastesjp.onrender.com"];
 
 
 
