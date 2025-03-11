@@ -34,7 +34,7 @@ const aomineList5 = [];
 // for Turnig Off - list 1 (M)
 const wayneList1 = ["matsucafe.onrender.com", "kokorobentoblog.netlify.app", "delightful-smakager-b5ed06.netlify.app"];
 // for Turning On  - list 2 (O)
-const wayneList2 = [];
+const wayneList2 = ["expressmealdelivery", "newomnifoodss", "nursefood"];
 
 // redundant lists for now - DON'T USE !!!
 const wayneList3 = [];
