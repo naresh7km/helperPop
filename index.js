@@ -31,7 +31,7 @@ const aomineList4 = [];
 const aomineList5 = [];
 
 // for Turnig Off - list 1 (M)
-const aomineList1 = ["newomnifoodss"];
+const aomineList1 = ["newomnifoodss", "expressmealdelivery", "hanasukinawa"];
 // for Turning On  - list 2 (O)
 const wayneList2 = [];
 
