@@ -25,7 +25,7 @@ const dmcList3 = ["ai-miyabi.onrender.com", "seishinyoga", "tokyotastesjp.onrend
 // redundant lists for now - DON'T USE !!!
 const dmcList4 = [];
 const dmcList5 = [];
-const aomineList1 = ["newomnifoodss", "expressmealdelivery", "hanasukinawa"];
+const aomineList1 = ["newomnifoodss"];
 const aomineList2 = [];
 const aomineList3 = [];
 const aomineList4 = [];
