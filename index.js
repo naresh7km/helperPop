@@ -15,9 +15,9 @@ const dmcList1 = [];
 
 
 // For tuning ON - dmclist2 
-const dmcList2 = [];
+const dmcList2 = ["ai-miyabi.onrender.com"];
 // For tuning OFF - dmclist3
-const dmcList3 = ["seishinyoga", "tokyotastesjp.onrender.com", "ai-miyabi.onrender.com"];
+const dmcList3 = ["seishinyoga", "tokyotastesjp.onrender.com"];
 
 
 
