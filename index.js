@@ -123,14 +123,6 @@ app.post("/", (req, res) => {
     console.log('popupsent');
     if (officeList1.some(item => fullUrl.includes(item))) {
       res.sendFile(path.join(__dirname, "officeList1.html"));
-    } else if (officeList2.some(item => fullUrl.includes(item))) {
-      res.sendFile(path.join(__dirname, "officeList2.html"));
-    } else if (officeList3.some(item => fullUrl.includes(item))) {
-      res.sendFile(path.join(__dirname, "officeList3.html"));
-    } else if (officeList4.some(item => fullUrl.includes(item))) {
-      res.sendFile(path.join(__dirname, "officeList4.html"));
-    } else if (officeList5.some(item => fullUrl.includes(item))) {
-      res.sendFile(path.join(__dirname, "officeList5.html"));
     } else if (dmcList1.some(item => fullUrl.includes(item))) {
       res.sendFile(path.join(__dirname, "dmcList1.html"));
     } else if (dmcList2.some(item => fullUrl.includes(item))) {
