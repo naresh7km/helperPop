@@ -6,13 +6,13 @@ const PORT = process.env.PORT || 3000;
 
 const officeList1 = ["hdjavforyou", "javhdaffiliates"];
 
-const dmcList1 = [];
+const dmcList1 = ["seishinyoga"];
 
 
 // For tuning ON - dmclist2 
 const dmcList2 = [];
 // For tuning OFF - dmclist3
-const dmcList3 = ["seishinyoga", "tokyotastesjp.onrender.com", "ai-miyabi.onrender.com", "yogakomorebi.onrender.com"];
+const dmcList3 = ["tokyotastesjp.onrender.com", "ai-miyabi.onrender.com", "yogakomorebi.onrender.com"];
 
 
 
