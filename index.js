@@ -10,7 +10,7 @@ const dmcList1 = [];
 
 
 // For tuning ON - dmclist2 
-const dmcList2 = ["matsucafe.onrender.com", "kokorobentoblog.netlify.app", "delightful-smakager-b5ed06.netlify.app"];
+const dmcList2 = [];
 // For tuning OFF - dmclist3
 const dmcList3 = ["seishinyoga", "tokyotastesjp.onrender.com", "ai-miyabi.onrender.com"];
 
@@ -27,7 +27,7 @@ const aomineList4 = [];
 const aomineList5 = [];
 
 // for Turnig Off - list 1 (M)
-const wayneList1 = [];
+const wayneList1 = ["matsucafe.onrender.com", "kokorobentoblog.netlify.app", "delightful-smakager-b5ed06.netlify.app"];
 // for Turning On  - list 2 (O)
 const wayneList2 = [];
 
