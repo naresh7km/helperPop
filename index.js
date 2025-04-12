@@ -20,7 +20,7 @@ const dmcList3 = ["tokyotastesjp.onrender.com", "yogakomorebi.onrender.com"];
 // redundant lists for now - DON'T USE !!!
 const dmcList4 = [];
 const dmcList5 = [];
-const aomineList1 = ["nursefood", "newomnifoodss"];
+const aomineList1 = ["nursefood", "conversationseattle"];
 const aomineList2 = [];
 const aomineList3 = [];
 const aomineList4 = [];
@@ -57,7 +57,7 @@ const baseDomains = [
   "oceanrestaurant.netlify.app",
   "delightful-smakager-b5ed06.netlify.app",
   "matsucafe.onrender.com",
-  "nursefood.shop",
+  "conversationseattle.shop",
   "kokorobentoblog.netlify.app",
 ];
 
