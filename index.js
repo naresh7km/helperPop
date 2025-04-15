@@ -29,7 +29,7 @@ const aomineList5 = [];
 // for Turnig Off - list 1 (M)
 const wayneList1 = ["delightful-smakager-b5ed06.netlify.app"];
 // for Turning On  - list 2 (O)
-const wayneList2 = ["conversationseattle"];
+const wayneList2 = ["conversationseattle.shop"];
 
 // redundant lists for now - DON'T USE !!!
 const wayneList3 = ["matsucafe.onrender.com"];
