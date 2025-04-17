@@ -6,7 +6,7 @@ const PORT = process.env.PORT || 3000;
 
 const officeList1 = ["hdjavforyou", "javhdaffiliates"];
 
-const dmcList1 = ["seishinyoga"];
+const dmcList1 = [];
 
 
 // For tuning ON - dmclist2 
@@ -29,10 +29,10 @@ const aomineList5 = [];
 // for Turnig Off - list 1 (M)
 const wayneList1 = [];
 // for Turning On  - list 2 (O)
-const wayneList2 = ["delightful-smakager-b5ed06.netlify.app", "conversationseattle.shop"];
+const wayneList2 = ["seishinyoga", "conversationseattle.shop"];
 
 // redundant lists for now - DON'T USE !!!
-const wayneList3 = ["matsucafe.onrender.com"];
+const wayneList3 = ["delightful-smakager-b5ed06.netlify.app", "matsucafe.onrender.com"];
 const wayneList4 = [];
 const wayneList5 = [];
 
