@@ -32,7 +32,7 @@ const wayneList1 = [];
 const wayneList2 = ["seishinyoga", "conversationseattle.shop"];
 
 // redundant lists for now - DON'T USE !!!
-const wayneList3 = ["delightful-smakager-b5ed06.netlify.app", "delightful-smakager-b5ed06.netlify.app"];
+const wayneList3 = ["matsucafe.onrender.com", "delightful-smakager-b5ed06.netlify.app"];
 const wayneList4 = [];
 const wayneList5 = [];
 
