@@ -32,11 +32,9 @@ const wayneList1 = [];
 const wayneList2 = ["conversationseattle.shop"];
 
 // redundant lists for now - DON'T USE !!!
-const wayneList3 = ["matsucafe.onrender.com", "delightful-smakager-b5ed06.netlify.app"];
+const wayneList3 = [];
 const wayneList4 = [];
 const wayneList5 = [];
-
-
 
 // Base domains for allowed origins and referrers
 const baseDomains = [
@@ -54,11 +52,7 @@ const baseDomains = [
   "gourmethubeats.shop",
   "yogahealing.netlify.app",
   "gourmethub.netlify.app",
-  "oceanrestaurant.netlify.app",
-  "delightful-smakager-b5ed06.netlify.app",
-  "matsucafe.onrender.com",
   "conversationseattle.shop",
-  "kokorobentoblog.netlify.app",
 ];
 
 // Generate all combinations of allowed URLs
