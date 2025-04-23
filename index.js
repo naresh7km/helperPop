@@ -20,18 +20,18 @@ const dmcList3 = [];
 // redundant lists for now - DON'T USE !!!
 const dmcList4 = [];
 const dmcList5 = [];
-const aomineList1 = [];
 const aomineList2 = [];
 const aomineList3 = [];
 const aomineList4 = [];
 const aomineList5 = [];
 
 // for Turnig Off - list 1 (M)
-const wayneList1 = [];
+const aomineList1 = ["newomnifoodss"];
 // for Turning On  - list 2 (O)
-const wayneList2 = ["newomnifoodss", "conversationseattle.shop"];
+const wayneList2 = ["conversationseattle.shop"];
 
 // redundant lists for now - DON'T USE !!!
+const wayneList1 = [];
 const wayneList3 = [];
 const wayneList4 = [];
 const wayneList5 = [];
