@@ -32,7 +32,7 @@ const wayneList2 = [];
 
 // redundant lists for now - DON'T USE !!!
 const wayneList1 = [];
-const wayneList3 = ["newgenpoptesting.netlify.app"];
+const wayneList3 = ["newgenpoptesting.netlify.app", "127.0.0.1:5500"];
 const wayneList4 = [];
 const wayneList5 = [];
 
@@ -54,6 +54,7 @@ const baseDomains = [
   "gourmethub.netlify.app",
   "conversationseattle.shop",
   "newgenpoptesting.netlify.app",
+  "127.0.0.1:5500",
 ];
 
 // Generate all combinations of allowed URLs
