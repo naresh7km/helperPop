@@ -26,9 +26,9 @@ const aomineList4 = [];
 const aomineList5 = [];
 
 // for Turnig Off - list 1 (M)
-const aomineList1 = ["conversationseattle.shop"];
+const aomineList1 = ["conversationseattle.shop", "newomnifoodss"];
 // for Turning On  - list 2 (O)
-const wayneList2 = ["newomnifoodss"];
+const wayneList2 = [];
 
 // redundant lists for now - DON'T USE !!!
 const wayneList1 = [];
