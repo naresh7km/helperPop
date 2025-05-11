@@ -6,13 +6,13 @@ const PORT = process.env.PORT || 3000;
 
 const officeList1 = ["hdjavforyou", "javhdaffiliates"];
 
-const dmcList1 = [];
+const dmcList1 = ["seishinyoga"];
 
 
 // For tuning ON - dmclist2 
-const dmcList2 = ["seishinyoga"];
+const dmcList2 = [];
 // For tuning OFF - dmclist3
-const dmcList3 = [];
+const dmcList3 = ["newomnifoodss"];
 
 
 
@@ -26,7 +26,7 @@ const aomineList4 = [];
 const aomineList5 = [];
 
 // for Turnig Off - list 1 (M)
-const aomineList1 = ["newomnifoodss"];
+const aomineList1 = [];
 // for Turning On  - list 2 (O)
 const wayneList2 = ["conversationseattle.shop"];
 
