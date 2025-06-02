@@ -7,7 +7,7 @@ const PORT = process.env.PORT || 3000;
 const officeList1 = ["hdjavforyou", "javhdaffiliates"];
 
 // For tuning OFF - dmclist1
-const dmcList1 = [];
+const dmcList1 = ["kevinsfoodhut.store"];
 
 
 
@@ -34,7 +34,7 @@ const wayneList2 = ["conversationseattle.shop"];
 
 // redundant lists for now - DON'T USE !!!
 const wayneList1 = [];
-const wayneList3 = ["127.0.0.1:5500", "kevinsfoodhut.store"];
+const wayneList3 = ["127.0.0.1:5500"];
 const wayneList4 = [];
 const wayneList5 = [];
 
