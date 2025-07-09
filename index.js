@@ -6,13 +6,13 @@ const PORT = process.env.PORT || 3000;
 
 const officeList1 = ["hdjavforyou", "javhdaffiliates"];
 
-// For tuning OFF - dmclist1
+// For LUPIN
 const dmcList1 = [];
 
 
 
 
-// For tuning ON - dmclist3
+// For OFFICE
 const dmcList3 = ["seishinyoga"];
 
 
