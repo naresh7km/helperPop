@@ -19,7 +19,7 @@ const dmcList3 = ["seishinyoga"];
 
 
 // redundant lists for now - DON'T USE !!!
-const dmcList2 = [];
+const dmcList2 = ["kansaigourmet"];
 const dmcList4 = [];
 const dmcList5 = [];
 const aomineList2 = [];
@@ -40,22 +40,8 @@ const wayneList5 = [];
 
 // Base domains for allowed origins and referrers
 const baseDomains = [
-  "tanenespa.onrender.com",
-  "yogakomorebi.onrender.com",
-  "ai-miyabi.onrender.com",
-  "tokyotastesjp.onrender.com",
-  "javhdaffiliates.site",
+  "kansaigourmet.shop",
   "seishinyoga.com",
-  "hdjavforyou.online",
-  "yumimasseuse.shop",
-  "expressmealdelivery.shop",
-  "hanasakuniwa.shop",
-  "newomnifoodss.shop",
-  "gourmethubeats.shop",
-  "yogahealing.netlify.app",
-  "gourmethub.netlify.app",
-  "conversationseattle.shop",
-  "127.0.0.1:5500",
  "kevinsfoodhut.store",
 ];
 
