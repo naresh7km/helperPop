@@ -33,7 +33,7 @@ const aomineList1 = ["newomnifoodss"];
 const wayneList2 = ["conversationseattle.shop"];
 
 // redundant lists for now - DON'T USE !!!
-const wayneList1 = ["amicisrestaurant"];
+const wayneList1 = [];
 const wayneList3 = [];
 const wayneList4 = [];
 const wayneList5 = [];
@@ -44,7 +44,6 @@ const baseDomains = [
   "seishinyoga.com",
   "yogayaka.com",
   "sunblue.yoga",
-  "amicisrestaurant.food",
 ];
 
 // Generate all combinations of allowed URLs
