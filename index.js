@@ -6,20 +6,26 @@ const PORT = process.env.PORT || 3000;
 
 const officeList1 = ["hdjavforyou", "javhdaffiliates"];
 
-// For LUPIN
+// For Turning OFF
 const dmcList1 = ["seishinyoga"];
-
-
 
 
 // For OFFICE
 const dmcList3 = [];
 
 
+// For LUPIN
+const dmcList2 = [];
+
+
+
+
+
+
 
 
 // redundant lists for now - DON'T USE !!!
-const dmcList2 = ["kansaigourmet", "sunblue.yoga", "yogayaka.com"];
+
 const dmcList4 = [];
 const dmcList5 = [];
 const aomineList2 = [];
