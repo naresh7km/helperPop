@@ -15,7 +15,7 @@ const dmcList3 = [];
 
 
 // For LUPIN
-const dmcList2 = ["seishinyoga"];
+const dmcList2 = [];
 
 
 
