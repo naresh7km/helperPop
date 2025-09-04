@@ -14,7 +14,7 @@ const dmcList1 = ["seishinyoga"];
 const dmcList3 = [];
 
 
-// For LUPIN
+// For OFFICE AUSTRALIA TFN
 const dmcList2 = [];
 
 
