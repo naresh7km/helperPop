@@ -11,11 +11,11 @@ const dmcList1 = [];
 
 
 // For OFFICE
-const dmcList3 = [];
+const dmcList3 = ["seishinyoga"];
 
 
 // For LUPIN 
-const dmcList2 = ["seishinyoga"];
+const dmcList2 = [];
 
 
 
