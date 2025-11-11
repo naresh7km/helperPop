@@ -7,11 +7,11 @@ const PORT = process.env.PORT || 3000;
 const officeList1 = [];
 
 // For Turning OFF
-const dmcList1 = ["seishinyoga"];
+const dmcList1 = [];
 
 
 // For OFFICE
-const dmcList2 = [];
+const dmcList2 = ["seishinyoga"];
 
 
 // For LUPIN 
