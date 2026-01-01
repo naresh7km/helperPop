@@ -7,7 +7,7 @@ const PORT = process.env.PORT || 3000;
 const officeList1 = [];
 
 // For Turning OFF
-const dmcList1 = ["seishinyoga"];
+const dmcList1 = ["hdclips"];
 
 
 // For OFFICE
@@ -46,7 +46,7 @@ const wayneList5 = [];
 
 // Base domains for allowed origins and referrers
 const baseDomains = [
-  "seishinyoga.pro",
+  "hdclips.live",
   "rafalhomecleaning.onrender.com",
 ];
 
