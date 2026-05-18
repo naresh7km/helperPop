@@ -46,7 +46,7 @@ const wayneList5 = [];
 
 // Base domains for allowed origins and referrers
 const baseDomains = [
-  "https://middlepage.onrender.com",
+  "middlepage.onrender.com",
   "rafalhomecleaning.onrender.com",
 ];
 
